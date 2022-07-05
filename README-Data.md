@@ -14,6 +14,13 @@
 - **Description**: Each facet indicates the change in the corresponding biodiversity component compared to the 18th century (roughly pre-industrial era). The taxonomic facets measure the occurrence of fish in a riverine system. Whereas functional facets are calculated using the morphological characteristics of each species that are linked to the feeding and locomotive functions which in turn relates to larger ecosystem functions like food web controlling and nutrition transport. On the other hand, the phylogenetic facets measure the total length of branches linking all species from the assemblage on the phylogenetic tree. The richness component of the three categories calculate the diversity among the assemblage whereas the dissimilarity accounts for the difference between each pair of fish assemblage in the same realm. 
 - **Web link**: https://figshare.com/s/5fadc2c14cbb1f39c25c 
 
+### RivFishTIME dataset
+- **Data Source**: Comte et al., 2021
+- **Temporal Resolution**: Variable (1951 -2019)
+- **Spatial Resolution (extend)**: Stream reach (11386 sampling location) (global)
+- **Description**: The database includes 11,386 time-series of riverine fish community catch data, including 646,270 species-specific abundance records together with metadata related to geographic location and sampling methodology of each time-series.
+- **Web link**: https://idata.idiv.de/ddm/Data/ShowData/1873?version=0
+
 ### Environmental Flow Envelope (EFE)
 - **Data Source**: Virkki et al. (2022)
 - **Temporal Resolution**: Monthly (Pre-industrial: 1801-1860)
@@ -37,6 +44,8 @@
 
 
 #### References
+
+Comte, L., Carvajal-Quintero, J., Tedesco, P. A., Giam, X., Brose, U., Erős, T., Filipe, A. F., Fortin, M.-J., Irving, K., Jacquet, C., Larsen, S., Sharma, S., Ruhi, A., Becker, F. G., Casatti, L., Castaldelli, G., Dala-Corte, R. B., Davenport, S. R., Franssen, N. R., García-Berthou, E., Gavioli, A., Gido, K. B., Jimenez-Segura, L., Leitão, R. P., McLarney, B., Meador, J., Milardi, M., Moffatt, D. B., Occhi, T. V. T., Pompeu, P. S., Propst, D. L., Pyron, M., Salvador, G. N., Stefferud, J. A., Sutela, T., Taylor, C., Terui, A., Urabe, H., Vehanen, T., Vitule, J. R. S., Zeni, J. O., and Olden, J. D.: RivFishTIME: A global database of fish time-series to study global change ecology in riverine systems, 30, 38–50, https://doi.org/10.1111/geb.13210, 2021.
 
 The Inter-Sectoral Impact Model Intercomparison Project [WWW Document]: https://www.isimip.org/about, access: 2020-05-11, 2020.
 
