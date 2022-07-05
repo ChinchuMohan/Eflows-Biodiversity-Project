@@ -53,4 +53,4 @@ Mohan, C., Gleeson, T., Famiglietti, J. S., Virkki, V., Kummu, M., Porkka, M., W
 If there are any queries, please contact Chinchu Mohan chinchu.mohan@usask.ca
 
 # Last update
-July-07-2022
+July-05-2022
