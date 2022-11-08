@@ -1,4 +1,4 @@
-# GW-Biodiversity-Project
+# EF-Biodiversity-Project
 
 This repository contains the workflow of Mohan et al. 2022 (in review in HESS). **Poor correlation between large-scale environmental flows violations and global freshwater biodiversity: implications for water resource management and the water planetary boundary**.  Click [here](https://hess.copernicus.org/preprints/hess-2022-87/) for pre print 
 
